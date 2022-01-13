@@ -7,5 +7,6 @@ For more information, visit https://pokemon-brick-bronze.github.io/.
 
 ## Links
 - [Link 1](https://pokemon-brick-bronze.github.io/archive/pbb.rbxl)
-- [Link 2](https://github.com/Pokemon-Brick-Bronze/Archive/raw/master/pbb.rbxl)
-- [Link 3](https://anonfiles.com/J5watbD5u7/pbb_rbxl)
+- [Link 2](https://raw.githubusercontent.com/Pokemon-Brick-Bronze/Archive/master/pbb.rbxl)
+- [Link 3](https://anonfiles.com/p1M7Z5Abx9/pbb_rbxl)
+- [Link 4](https://anonfiles.com/11M9Z9A0x8/pbb_rbxl)
